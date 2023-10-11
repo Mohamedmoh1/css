@@ -66,6 +66,7 @@ button{
     /* padding: 10px; */
     padding-left: 20px;
     padding-right: 20px;
+    margin-left: 63px;
 }
 
 footer{
@@ -73,3 +74,22 @@ footer{
     font-weight: bold;
     text-align: center;
 }
+
+table{
+    
+    width: 40%;
+    margin: auto;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td{ text-align: center;}
+
+ul{
+    margin-left: 40%;
+}
+
+
